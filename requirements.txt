@@ -39,7 +39,7 @@ nbformat==4.4.0
 neobolt==1.7.4
 neotime==1.7.4
 notebook==5.7.4
-numpy==1.16.1
+numpy==1.22.0
 pandocfilters==1.4.2
 parso==0.3.4
 pexpect==4.6.0
